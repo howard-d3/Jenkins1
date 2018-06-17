@@ -1,2 +1,2 @@
 # Jenkins1
-a project for Jenkins study
+a dummy project for self-study of Jenkins
